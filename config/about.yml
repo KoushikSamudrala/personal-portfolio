@@ -3,23 +3,23 @@ HEADER:
 
 PRESENTATION:
   description: |
-    I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
-
-    My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+   As a dedicated professional specializing in artificial intelligence, machine learning, and computer vision, I hold a Master’s degree in Commercial Vehicle Technology from Rheinland-Pfälzische Technische Universität, 
+   where I focused on driver assistance systems and automotive software development. My expertise includes systems engineering, Computer vision, and Machine Learning, with practical experience at Evomotiv GmbH developing advanced algorithms for monocular depth estimation using Python, ROS, and C++. My master’s thesis on panoptic segmentation for autonomous driving underscores my ability to optimize AI systems for real-time applications. I am passionate about driving digital transformation and innovation in dependable AI, digital twins, and system modernization. 
+   Proficient in German (B1) and English, I excel in interdisciplinary collaboration and effective communication. Let's connect to explore opportunities for creating advanced, sustainable technological solutions.
 
 DOING:
   enabled: true
   label: "What I'm doing"
   items:
-    - title: "Mobile Apps"
+    - title: "Image processing"
       icon: "config/assets/icons/mobile.svg"
-      description: "Professional development of applications for iOS and Android."
+      description: "Development of algorithms for perception stack."
     - title: "Scripting"
       icon: "config/assets/icons/code.svg"
       description: "Automation and task scripting using Python to enhance efficiency and productivity."
-    - title: "UI/UX Designing"
+    - title: "Data Science"
       icon: "config/assets/icons/compass.svg"
-      description: "Intuitive and visually appealing user interfaces and user experiences."
+      description: "Deploy ETL pipelines into cloud"
     - title: "Web Development"
       icon: "config/assets/icons/laptop-code.svg"
       description: "High-quality development of sites at the professional level."
@@ -47,20 +47,12 @@ TECHNOLOGIES:
   items:
     - title: "Python"
       icon: "config/assets/icons/python.svg"
-    - title: "Flutter"
-      icon: "config/assets/icons/flutter.svg"
     - title: "Git"
       icon: "config/assets/icons/git.svg"
-    - title: "Figma"
-      icon: "config/assets/icons/figma.svg"
-    - title: "Firebase"
-      icon: "config/assets/icons/firebase.svg"
     - title: "Pandas"
       icon: "config/assets/icons/pandas.svg"
     - title: "MongoDB"
       icon: "config/assets/icons/mongodb.svg"
-    - title: "Dart"
-      icon: "config/assets/icons/dart.svg"
     - title: "HTML"
       icon: "config/assets/icons/html.svg"
     - title: "AI"
